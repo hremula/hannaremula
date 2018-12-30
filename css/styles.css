@@ -1,0 +1,165 @@
+/*****************TAG SELECTORS****************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Open Sans, sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+h1 {
+  margin: 30px auto 0 auto;
+  font-family: Dancing Script, cursive;
+  font-size: 80px;
+  color: #5AACA1;
+}
+
+h2 {
+  font-family: Fira Sans, sans-serif;
+  font-size: 30px;
+  color: #5AACA1;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: Open Sans, sans-serif;
+  font-size: 16px;
+  color: #5AACA1;
+  margin: 0 auto 0 auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.footer-link {
+  font-family: Open Sans, sans-serif;
+  font-size: 14px;
+  color: #126F63;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+.footer-link:hover {
+color: #EAFCF7;
+}
+
+hr {
+  border-color: #F0F9F9;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+.topContainer {
+  background-color: #F0F9F9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+    background-color: #5AACA1;
+    color: #eaf6f6;
+    padding: 50px 0 20px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.profile {
+  width: 30%;
+  margin: 70px auto 50px auto;
+  text-align: center;
+  line-height: 2;
+}
+
+.bottom-bird {
+  position: absolute;
+  left: 600px;
+  bottom: 280px;
+}
+
+.top-bird {
+  position: absolute;
+  right: 600px;
+  top: 70px;
+}
+
+.mountain {
+
+margin: 30px auto 0 auto;
+max-width: 100%;
+height: auto;
+}
+
+.skill-row {
+width: 50%;
+margin: 60px auto 100px auto;
+text-align: left;
+}
+
+.vasen {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.oikea {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.profile-picture {
+  width: 55%;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Open Sans;
+  color: #ffffff;
+  font-size: 14px;
+  background: #5AACA1;
+  padding: 15px 30px 15px 30px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #126F63;
+  text-decoration: none;
+}
+
+.contact-message {
+  width: 30%;
+    margin: 30px auto 60px;
+}
+
+.footer-text {
+color: #EAF6f6;
+font-size:0.75rem;
+padding: 20px 0;
+}
+
+.skills {
+  background-color: #F5FAFA;
+
+}
+
+.more-link {
+  font-family: Open Sans, sans-serif;
+  font-size: 14px;
+  color: #5AACA1;
+  text-decoration: none;
+}
+
+.more-link:hover {
+color: #126F63;
+}
