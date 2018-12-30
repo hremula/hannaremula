@@ -47,6 +47,7 @@ hr {
   background-color: #F0F9F9;
   position: relative;
   padding-top: 100px;
+  padding-bottom: 0;
 }
 
 .bottom-container {
@@ -79,14 +80,14 @@ hr {
 }
 
 .mountain {
-
 margin: 30px auto 0 auto;
 max-width: 100%;
 height: auto;
+display: block;
 }
 
 .skill-row {
-width: 60%;
+width: 50%;
 margin: 60px auto 100px auto;
 text-align: left;
 }
@@ -105,7 +106,7 @@ text-align: left;
 }
 
 .profile-picture {
-  width: 55%;
+  width: 50%;
 }
 
 .btn {
