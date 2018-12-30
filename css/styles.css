@@ -113,7 +113,7 @@ text-align: left;
   -moz-border-radius: 40;
   border-radius: 28px;
   font-family: Open Sans;
-  color: #ffffff;
+  color: #ffffff;ß
   font-size: 12px;
   background: #5AACA1;
   padding: 15px 30px 15px 30px;
@@ -126,8 +126,13 @@ text-align: left;
 }
 
 .contact-message {
-  width: 40%;
     margin: 30px auto 60px;
+}
+
+
+.contact-me {
+  width: 40%;
+      margin: 30px auto 60px;
 }
 
 .footer-text {
